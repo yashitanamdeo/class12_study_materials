@@ -1,2 +1,2 @@
 ﻿# Class 12 study materials
-readme to be updated
+Readme is to be updated
