@@ -1,3 +1,2 @@
 ﻿# Class 12 Study Materials
-The readme is to be updated..<br>
-content are up to date
+The readme content are up to date
